@@ -36,9 +36,29 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Seven dialogues both pithie and profitable The 1 is of the right vse of things indifferent. 2 shewet
+
+1. ¶ To the Right Worshipfull, the Maior, Shiriffes and Aldermen, together with all that vnfainedly feare God, and sincerely loue the truth, in that religious and famous Citie of Norwich, W. B. wisheth all outward prosperitie, with increase of heauenly grace in this life, and eternall felicity in the life to come.
+
+1. To the Christian Reader.
+
+1. The Printer to the Reader.
+
 #####Body#####
-Seven dialogues both pithie and profitable The 1 is of the right vse of things indifferent. 2 shewet
+
+1. ❧ A dialogue of Fish-eating, both pleasant and profitable, wherein are many excellent poyntes of Divinitie discussed, but chiefly that of the right vse of thyngs indifferent, very necessary for these times.
+
+1. Naufragium A pittifull, yet pleasant Dialogue of a Shipwracke, shewing what comfort Popery affoordeth in time of daunger.
+
+1. A very excellent Dialogue betweene a good Woman and a Shrew, shewing how a Woman may win her Husbands loue, though he be neuer so froward.
+
+1. A pithy Dialogue betweene a Harlot and a godly yong man: shewing how shee going about to catch him in her snares, was (by his forcible perswasions) caught her selfe, and conuerted to an honest woman.
+
+1. A Dialogue of a Womanin Childe-bed.
+
+1. A pleasant Dialogue of a Popish Pilgrimage: notably setting forth the glorious felicitie and admirable vtilitie of the Catholike Religion.
+
+1. ¶ A ve•…y pleasant and fruitfull Dialogue, she•…ing what comfort a man may finde by Popery in the houre of death.
+
 **Types of content**
 
   * There are 1249 **drama** parts! This is **prose drama**.
